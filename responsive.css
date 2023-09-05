@@ -1,0 +1,13 @@
+@media(max-width:500px){
+    #panel{
+        height: 80%;
+        width: 65%;
+    }   
+    #panel h1{
+        font-size: 28px;
+    }
+    #demo{
+        max-width: 90%;
+        font-size: 15px;
+    }
+}
